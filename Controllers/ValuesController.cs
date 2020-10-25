@@ -23,7 +23,7 @@ namespace dockerapi_github.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "Computer";
+            return "Computer Machine";
         }
 
         // POST api/<ValuesController>
